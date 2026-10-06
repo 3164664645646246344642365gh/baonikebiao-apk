@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.02",
-  "updatedAt": "2026-10-06T14:39:56.103Z",
+  "latest": "1.2.03",
+  "updatedAt": "2026-10-06T16:43:31.763Z",
   "versions": [
+    {
+      "version": "1.2.03",
+      "code": 22,
+      "date": "2026-10-06",
+      "size": 27250461,
+      "sha256": "d61830db125589d602da1b706067c66c80e2d06e39dd665a0ac5ef9944c1b10d",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.03/bnkb-1.2.03.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.03",
+      "note": "今日页：壁纸可存高清/标清、新闻图一键分享、壁纸当天缓存次日重取；课表左右滑切周；我的页校园卡余额回归+头像男蓝女粉；会员统一显示轻档包；支付宝直接拉起App；登录页学号提示改占位"
+    },
     {
       "version": "1.2.02",
       "code": 21,
