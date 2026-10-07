@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.09",
-  "updatedAt": "2026-10-07T04:02:47.997Z",
+  "latest": "1.2.10",
+  "updatedAt": "2026-10-07T04:47:31.262Z",
   "versions": [
+    {
+      "version": "1.2.10",
+      "code": 29,
+      "date": "2026-10-07",
+      "size": 27794900,
+      "sha256": "5a31b0f3b812d0dc151cd231a94ebfc655238a239763bf6d50fd2c688011fb3b",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.10/bnkb-1.2.10.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.10",
+      "note": "提醒中心升级：常驻「下一节」通知（灵动岛式）、提前量智能建议、一键重排提醒；修复教务登录。"
+    },
     {
       "version": "1.2.09",
       "code": 28,
