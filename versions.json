@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.11",
-  "updatedAt": "2026-10-07T05:01:25.867Z",
+  "latest": "1.2.12",
+  "updatedAt": "2026-10-07T05:09:17.182Z",
   "versions": [
+    {
+      "version": "1.2.12",
+      "code": 31,
+      "date": "2026-10-07",
+      "size": 27796320,
+      "sha256": "b1e97c1e05e7b74de78f98626ac533af35df51deaeed2f887350d0dd47eaf724",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.12/bnkb-1.2.12.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.12",
+      "note": "手机号脱敏显示（中间四位打码）、资料页只显示学生本人号码"
+    },
     {
       "version": "1.2.11",
       "code": 30,
