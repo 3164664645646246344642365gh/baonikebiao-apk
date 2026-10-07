@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.12",
-  "updatedAt": "2026-10-07T05:09:17.182Z",
+  "latest": "1.2.13",
+  "updatedAt": "2026-10-07T05:26:21.969Z",
   "versions": [
+    {
+      "version": "1.2.13",
+      "code": 32,
+      "date": "2026-10-07",
+      "size": 27795832,
+      "sha256": "3597d04a53a94e5a904a5cca6c3552bd12d40b7da1fb150fe38ab5f50df38870",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.13/bnkb-1.2.13.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.13",
+      "note": "课表周次双源校验修正；上下滑也可切换周次；每日一习秒开（缓存优先）；灰课与调休排查增强。"
+    },
     {
       "version": "1.2.12",
       "code": 31,
