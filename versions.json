@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.10",
-  "updatedAt": "2026-10-07T04:47:31.262Z",
+  "latest": "1.2.11",
+  "updatedAt": "2026-10-07T05:01:25.867Z",
   "versions": [
+    {
+      "version": "1.2.11",
+      "code": 30,
+      "date": "2026-10-07",
+      "size": 27795872,
+      "sha256": "9f363698acd8cb18dc29505ca505592c25f143ff1a21c689fc07d082276dff9f",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.11/bnkb-1.2.11.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.11",
+      "note": "修复：简版资料改显本人联系电话（不再是家长号码）；周次双源校验（修本周课误显示灰色）；添加小组件引导增强。"
+    },
     {
       "version": "1.2.10",
       "code": 29,
