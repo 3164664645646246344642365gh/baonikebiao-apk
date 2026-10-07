@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.03",
-  "updatedAt": "2026-10-06T16:43:31.763Z",
+  "latest": "1.2.09",
+  "updatedAt": "2026-10-07T04:02:47.997Z",
   "versions": [
+    {
+      "version": "1.2.09",
+      "code": 28,
+      "date": "2026-10-07",
+      "size": 27772488,
+      "sha256": "9f26a74083e93b5545ac2d1c7237587e4a5052939571c0e0a69151a832715e87",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.09/bnkb-1.2.09.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.09",
+      "note": "小组件新增五种尺寸（1×1 到 4×4），在「我的-桌面小组件」里可以直接添加到桌面；支付宝充值加了过渡提示。"
+    },
     {
       "version": "1.2.03",
       "code": 22,
