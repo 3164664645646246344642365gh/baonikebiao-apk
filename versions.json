@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.36",
-  "updatedAt": "2026-10-08T11:37:10.015Z",
+  "latest": "1.2.37",
+  "updatedAt": "2026-10-08T11:47:28.943Z",
   "versions": [
+    {
+      "version": "1.2.37",
+      "code": 56,
+      "date": "2026-10-08",
+      "size": 28207716,
+      "sha256": "61610d903f6d723b8a809871bbf6a1640a57c940a8df2e817ae79e8605926156",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.37/bnkb-1.2.37.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.37",
+      "note": "晚自习时间更正：默认 19:00~20:40（7点到8:40），开始/结束仍可自行修改"
+    },
     {
       "version": "1.2.36",
       "code": 55,
