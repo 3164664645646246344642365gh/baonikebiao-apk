@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.22",
-  "updatedAt": "2026-10-08T01:08:51.257Z",
+  "latest": "1.2.35",
+  "updatedAt": "2026-10-08T11:23:58.105Z",
   "versions": [
+    {
+      "version": "1.2.35",
+      "code": 54,
+      "date": "2026-10-08",
+      "size": 27962032,
+      "sha256": "a1d4a44974238a3c8936aa198242f098832dc94668c31b1e8accd988423b86eb",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.35/bnkb-1.2.35.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.35",
+      "note": "表白墙栏目改版（表白/树洞/求助/其他，栏内最热置顶）、今天页顺序调整、晚自习可选几点开始、评论不限字数、学院/系如实显示"
+    },
     {
       "version": "1.2.22",
       "code": 41,
