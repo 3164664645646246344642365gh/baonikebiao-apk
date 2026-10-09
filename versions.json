@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.44",
-  "updatedAt": "2026-10-09T16:00:50.918Z",
+  "latest": "1.2.45",
+  "updatedAt": "2026-10-09T16:58:15.293Z",
   "versions": [
+    {
+      "version": "1.2.45",
+      "code": 64,
+      "date": "2026-10-09",
+      "size": 28328492,
+      "sha256": "6219c4d583087985e00ecd4c21a8470500c3d0624751b9595d95c5bd78f16315",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.45/bnkb-1.2.45.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.45",
+      "note": "社区体验修复"
+    },
     {
       "version": "1.2.44",
       "code": 63,
