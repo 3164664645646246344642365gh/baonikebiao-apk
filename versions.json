@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.45",
-  "updatedAt": "2026-10-09T16:58:15.293Z",
+  "latest": "1.2.46",
+  "updatedAt": "2026-10-09T17:21:21.645Z",
   "versions": [
+    {
+      "version": "1.2.46",
+      "code": 65,
+      "date": "2026-10-09",
+      "size": 28309996,
+      "sha256": "f5484a0a8b20730e3ed7f88a32f3987df68e4e2ddce772fd15bb3879ef005124",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.46/bnkb-1.2.46.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.46",
+      "note": "性能：删掉实时背景模糊、评论区换掉 SelectableText、社区页懒加载"
+    },
     {
       "version": "1.2.45",
       "code": 64,
