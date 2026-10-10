@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.46",
-  "updatedAt": "2026-10-09T17:21:21.645Z",
+  "latest": "1.2.47",
+  "updatedAt": "2026-10-10T02:03:40.126Z",
   "versions": [
+    {
+      "version": "1.2.47",
+      "code": 66,
+      "date": "2026-10-10",
+      "size": 28319424,
+      "sha256": "d8c445d7b8380459d24892919ec3a99f8317518939deceba7336ffe44cc9803d",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.47/bnkb-1.2.47.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.47",
+      "note": "社区页可拖拽 Tab 与页面滑动联动；切 tab 不再重建页面"
+    },
     {
       "version": "1.2.46",
       "code": 65,
