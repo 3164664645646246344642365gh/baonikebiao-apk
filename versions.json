@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.48",
-  "updatedAt": "2026-10-10T02:38:02.572Z",
+  "latest": "1.2.49",
+  "updatedAt": "2026-10-10T03:06:36.757Z",
   "versions": [
+    {
+      "version": "1.2.49",
+      "code": 68,
+      "date": "2026-10-10",
+      "size": 28345552,
+      "sha256": "7189a7aae3e69e419439a2d5dc72e3289f9bc8210070b0fb3d3595c1795643cc",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.49/bnkb-1.2.49.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.49",
+      "note": "底栏药丸修尺寸；跟手方向改回；社区缓存兜底；教务自动重登"
+    },
     {
       "version": "1.2.48",
       "code": 67,
