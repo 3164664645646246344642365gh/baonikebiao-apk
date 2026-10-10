@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.57",
-  "updatedAt": "2026-10-10T10:12:56.621Z",
+  "latest": "1.2.58",
+  "updatedAt": "2026-10-10T10:29:47.437Z",
   "versions": [
+    {
+      "version": "1.2.58",
+      "code": 77,
+      "date": "2026-10-10",
+      "size": 28410112,
+      "sha256": "7d6d69da83318df13b3b0d6a38d99d302cb3d3045ed5f4a3210b28ff52cfea11",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.58/bnkb-1.2.58.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.58",
+      "note": "开启密码备份自动分流：扫码/验证码用户当场输密码核验上传；滑动手感灵敏度调高；启动即检测会员、全界面即时生效"
+    },
     {
       "version": "1.2.57",
       "code": 76,
