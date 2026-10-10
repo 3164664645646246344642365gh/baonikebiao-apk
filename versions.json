@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.54",
-  "updatedAt": "2026-10-10T06:41:37.801Z",
+  "latest": "1.2.55",
+  "updatedAt": "2026-10-10T07:30:23.929Z",
   "versions": [
+    {
+      "version": "1.2.55",
+      "code": 74,
+      "date": "2026-10-10",
+      "size": 28392872,
+      "sha256": "0249358ed26d24e44cd7d704b24a36ec23cd0ee341c7a799b839b08ef365e955",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.55/bnkb-1.2.55.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.55",
+      "note": "首页公告入口+历史；课表右下角自由日程（可选日期时间，支持凌晨）；排序终版；强制密码"
+    },
     {
       "version": "1.2.54",
       "code": 73,
