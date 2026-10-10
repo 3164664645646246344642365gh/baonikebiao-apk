@@ -1,16 +1,16 @@
 {
   "latest": "1.2.56",
-  "updatedAt": "2026-10-10T08:27:15.263Z",
+  "updatedAt": "2026-10-10T10:05:54.262Z",
   "versions": [
     {
       "version": "1.2.56",
       "code": 75,
       "date": "2026-10-10",
-      "size": 28394780,
-      "sha256": "1d5c9538c5df5e8210a4ca52caaf2a17d5bed0c91323568293f184552000947d",
+      "size": 11051230,
+      "sha256": "bff723d6dc35026cebe1380f1cf7c69a6c80e5171a6991e208112b1bc2876632",
       "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.56/bnkb-1.2.56.apk",
       "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.56",
-      "note": "日程按钮重构：弹窗内一次填完（日期/时间/标题/地点+确认按钮）；周末列含自定义事项；开学时间自动补；删求助栏；我的页强制密码"
+      "note": ""
     },
     {
       "version": "1.2.55",
