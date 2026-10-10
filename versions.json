@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.58",
-  "updatedAt": "2026-10-10T10:29:47.437Z",
+  "latest": "1.2.59",
+  "updatedAt": "2026-10-10T10:50:22.556Z",
   "versions": [
+    {
+      "version": "1.2.59",
+      "code": 78,
+      "date": "2026-10-10",
+      "size": 28411824,
+      "sha256": "e9f41ea2032537acd8ad9f8b9e98c9ae9b045da04f2723e7cf9442ce1ce70207",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.59/bnkb-1.2.59.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.59",
+      "note": "修复：课友圈能划回表白墙了（两个方向都跟手）；扫码/验证码用户在我的页点开启直接输学号密码上传核验"
+    },
     {
       "version": "1.2.58",
       "code": 77,
