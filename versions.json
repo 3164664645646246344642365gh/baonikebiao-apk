@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.56",
-  "updatedAt": "2026-10-10T10:05:54.262Z",
+  "latest": "1.2.57",
+  "updatedAt": "2026-10-10T10:12:56.621Z",
   "versions": [
+    {
+      "version": "1.2.57",
+      "code": 76,
+      "date": "2026-10-10",
+      "size": 28406136,
+      "sha256": "507ee4dc3e6b81105045c3acea5271385107890a4c1daa354bf9df3f9267e495",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.57/bnkb-1.2.57.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.57",
+      "note": "轻滑切页更跟手：轻甩或短拖就能切 Tab，社区表白墙/课友圈同样；开启密码云端备份前先核验学号密码"
+    },
     {
       "version": "1.2.56",
       "code": 75,
