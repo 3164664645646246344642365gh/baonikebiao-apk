@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.65",
-  "updatedAt": "2026-10-12T05:54:13.456Z",
+  "latest": "1.2.66",
+  "updatedAt": "2026-10-12T07:40:11.763Z",
   "versions": [
+    {
+      "version": "1.2.66",
+      "code": 85,
+      "date": "2026-10-12",
+      "size": 28529668,
+      "sha256": "26262e1cf5a7de6e33d97851b783017ef49990025bf29dbef16e5b205174cd22",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.66/bnkb-1.2.66.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.66",
+      "note": "消息实时刷新+强提示（聊天4秒/收件箱5秒轮询）；买卖双方都显示多少人看过；卖家可设数量；二手市场改名校园集市"
+    },
     {
       "version": "1.2.65",
       "code": 84,
