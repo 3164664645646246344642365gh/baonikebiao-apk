@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.66",
-  "updatedAt": "2026-10-12T07:40:11.763Z",
+  "latest": "1.2.68",
+  "updatedAt": "2026-10-12T08:10:00.774Z",
   "versions": [
+    {
+      "version": "1.2.68",
+      "code": 87,
+      "date": "2026-10-12",
+      "size": 28536476,
+      "sha256": "09239b3801de9da31d83edb0ba3bdec9e7a241c375d66552f552433f80ecb025",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.68/bnkb-1.2.68.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.68",
+      "note": "实时提醒：全局每3秒查咨询（任何页面都能收到+可点跳转）；聊天1.5秒、收件箱2秒刷新；改名包你闲置"
+    },
     {
       "version": "1.2.66",
       "code": 85,
