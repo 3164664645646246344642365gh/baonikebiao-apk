@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.59",
-  "updatedAt": "2026-10-10T10:50:22.556Z",
+  "latest": "1.2.60",
+  "updatedAt": "2026-10-12T03:19:37.523Z",
   "versions": [
+    {
+      "version": "1.2.60",
+      "code": 79,
+      "date": "2026-10-12",
+      "size": 28411800,
+      "sha256": "4ce088234c5b05cf24566a9d3c5b2b93d3dfc38d2f448fe1dad6dd1f86087f22",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.60/bnkb-1.2.60.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.60",
+      "note": "会员调价：月卡3元 / 季卡8元 / 年卡30元（体验1.99保留）"
+    },
     {
       "version": "1.2.59",
       "code": 78,
