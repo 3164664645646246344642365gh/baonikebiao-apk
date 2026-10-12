@@ -1,7 +1,17 @@
 {
-  "latest": "1.2.63",
-  "updatedAt": "2026-10-12T04:53:47.189Z",
+  "latest": "1.2.64",
+  "updatedAt": "2026-10-12T05:15:42.435Z",
   "versions": [
+    {
+      "version": "1.2.64",
+      "code": 83,
+      "date": "2026-10-12",
+      "size": 28515536,
+      "sha256": "95db99c895638d80a2f089e22448cb0d7453d627c514c5a1c729525153005b81",
+      "apk": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/download/v1.2.64/bnkb-1.2.64.apk",
+      "page": "https://github.com/3164664645646246344642365gh/baonikebiao-apk/releases/tag/v1.2.64",
+      "note": "修卖家端：咨询摘要点进去能看到人、能看到浏览数（上一版入口错了）"
+    },
     {
       "version": "1.2.63",
       "code": 82,
